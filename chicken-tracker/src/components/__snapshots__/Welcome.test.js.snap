@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1
+      class="text-white"
+    >
+       Welcome to Chicken Tracker!
+    </h1>
+    <div>
+      <p
+        class="text-white"
+      >
+        Log in or Register to continue
+      </p>
+    </div>
+    <div>
+      <button
+        class="submitBtn"
+      >
+        <a
+          class="submitBtn"
+          href="/login"
+        >
+          Login
+        </a>
+      </button>
+    </div>
+    <div>
+      <button
+        class="submitBtn"
+      >
+        <a
+          class="submitBtn"
+          href="/register"
+        >
+          Register
+        </a>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

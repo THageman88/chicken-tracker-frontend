@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: url('tree.jpeg');
+  background-size:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+label{
+  color:antiquewhite
+}
+
+label:hover{
+  color:brown;
+  transition: 75ms;
+}
+
+.submitBtn{
+  background-color: rgb(0, 0, 0);
+  color:goldenrod;
+  border-radius: 5px;
+  border-color: brown;
+}
+.backBtn{
+  background-color: rgb(0, 0, 0);
+  color:goldenrod;
+  border-radius: 5px;
+  border-color: brown;
+}
+
+input{
+  background-color:blanchedalmond;
+  border-radius: 5px;
+}
+input:hover{
+  background-color: aliceblue;
+}
